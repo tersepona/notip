@@ -1,4 +1,4 @@
-package com.aliendroid.alienads;
+package com.ali.notip;
 
 import org.junit.Test;
 

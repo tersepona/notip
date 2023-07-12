@@ -1,4 +1,4 @@
-package com.aliendroid.alienads;
+package com.ali.notip;
 
 import androidx.annotation.NonNull;
 

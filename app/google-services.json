@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046888149938",
+    "project_id": "sdjaslknmcsla",
+    "storage_bucket": "sdjaslknmcsla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046888149938:android:13912e1db5083020c7aaab",
+        "android_client_info": {
+          "package_name": "com.kimganteng.ali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046888149938-7oqo05utesv5vlnduse82lfi8ef762ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOyrggfkulNRvPgPTNE0XS6u_zLtJyVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046888149938-7oqo05utesv5vlnduse82lfi8ef762ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
